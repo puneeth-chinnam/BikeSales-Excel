@@ -54,11 +54,10 @@ The data preprocessing followed these steps:
 ## Analysis and Insights
 
 The final dashboard provides:
-
-- Demographic segmentation by age, gender, region
-
-- Correlation of purchase trends with income, commute distance to work
-
+- High sales of Bikes in families with Zero cars or More than Three cars
+- More sales with customers who are pursuing/completed Bachelor's degree
+- High sales in the North American region
+- Correlation of purchase trends with high income and lower commute distance to work
 
 This self-service visualization enables quick analysis of customer segments and bike purchase patterns.
 The project can be used to deliver an impactful data story to guide marketing strategy.
