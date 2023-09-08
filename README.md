@@ -33,13 +33,13 @@ The data preprocessing followed these steps:
 
 4. Binned "Age" column:
 
-    - < 31: Adolescent
+    - Below 31: Adolescent
     
-    - 31-54: Middle Age
+    - Between 31-54: Middle Age
     
-    - > 55: Old
+    - Greater than 54: Old
 
-5. Created pivot tables to analyze trends 
+5. Created pivot tables to categorize data 
 
 6. Generated visualizations:
 
