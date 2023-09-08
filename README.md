@@ -5,7 +5,7 @@
 This project analyzes a bike purchase dataset with 1000 records and the following attributes:
 
 ```
-- Customer income ($)
+- Customer income 
 - Age
 - Gender
 - Education level
@@ -29,7 +29,7 @@ The data preprocessing followed these steps:
 
     - Marital status: "S" -> "Single", "M" -> "Married"
 
-3. Changed "Income" data type to currency
+3. Changed "Income" data type to currency( $ )
 
 4. Binned "Age" column:
 
