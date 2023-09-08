@@ -1,5 +1,7 @@
 # Bike Purchase Analysis Dashboard
 
+## Find the Dashboard in the "Dashboard" sheet in Excel file.
+
 ## Dataset
 
 This project analyzes a bike purchase dataset with 1000 records and the following attributes:
