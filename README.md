@@ -11,6 +11,8 @@ This project analyzes a bike purchase dataset with 1000 records and the followin
 - Age
 - Gender
 - Education level
+- Children
+- Home ownership
 - Number of cars owned  
 - Marital status
 - Number of children
