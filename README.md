@@ -58,4 +58,5 @@ The final dashboard provides:
 - Correlation of purchase trends with income, commute distance to work
 
 
-This self-service visualization enables quick analysis to understand customer segments and their bike purchase patterns. The project can be used to deliver an impactful data story to guide marketing strategy.
+This self-service visualization enables quick analysis of customer segments and bike purchase patterns.
+The project can be used to deliver an impactful data story to guide marketing strategy.
